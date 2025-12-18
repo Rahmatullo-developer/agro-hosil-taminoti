@@ -115,7 +115,7 @@ export default function Home() {
             </div>
             <div className={`transition-all duration-1000 delay-400 ${isVisible ? 'opacity-100 translate-x-0' : 'opacity-0 translate-x-10'}`}>
               <img
-                src="https://images.unsplash.com/photo-1637768315904-519ee221d27b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx0cmFjdG9yJTIwZmFybWluZyUyMGVxdWlwbWVudHxlbnwxfHx8fDE3NjU5NTA0NjJ8MA&ixlib=rb-4.1.0&q=80&w=1080"
+                src="https://cdn.uza.uz/2025/04/18/21/31/fKYoFkmP6vLBcwhdO955GiEatU6pmPs9_normal.jpg"
                 alt="Modern farming"
                 className="rounded-2xl shadow-2xl w-full h-[400px] object-cover"
               />
